@@ -1,10 +1,11 @@
-# Machine-Learning-Algorithms
-On this project we used the IMDB dataset and implemented the Naive Bayes and Logistical Regression algorithms from scratch 
-in order to train the algorithms on the classification of a movie review based on the words it contains into a positive one or a negative one.
-(You can also read our report to see our results)
+# IMDB-Classification
 
 
-To run the code simply:
+* Implementing Naive Bayes and Logistic Regression algorithms from scratch in order to perform sentiment analysis on the IMDB dataset.
+
+
+
+* To run the code simply:
 
 
 1)Downlad the aclImdb dataset : https://ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz
